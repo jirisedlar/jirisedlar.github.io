@@ -6,7 +6,7 @@ Postdoc Researcher
 
 <a href="http://impact.ciirc.cvut.cz">Intelligent Machine Perception Project</a> (IMPACT)
 
-<a href="https://www.ciirc.cvut.cz/">Czech Institute of Informatics, Robotics, and Cybernetics (CIIRC)</a><br>Czech Technical University in Prague
+<a href="https://www.ciirc.cvut.cz/">Czech Institute of Informatics, Robotics, and Cybernetics</a> (CIIRC)<br>Czech Technical University in Prague
 
 Office: <a href="https://goo.gl/maps/oP4URGXcyJW78HpX6">CIIRC</a> B-636 (<a href="http://impact.ciirc.cvut.cz/wp-content/uploads/2017/10/get-to-image003.gif">building B</a>, 6th floor)
 

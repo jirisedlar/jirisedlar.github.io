@@ -1,18 +1,18 @@
-# Jiri Sedlar
+# Jiri Sedlar (PhD)
 
 <img src="photo.jpg">
 
-Postdoc Researcher
-
 <a href="http://impact.ciirc.cvut.cz">Intelligent Machine Perception Project</a> (IMPACT)
-
-<a href="https://www.ciirc.cvut.cz/">Czech Institute of Informatics, Robotics, and Cybernetics</a> (CIIRC)<br>Czech Technical University in Prague
-
-Office: <a href="https://goo.gl/maps/oP4URGXcyJW78HpX6">CIIRC</a> B-636 (<a href="http://impact.ciirc.cvut.cz/wp-content/uploads/2017/10/get-to-image003.gif">building B</a>, 6th floor)
+<br>
+<a href="https://www.ciirc.cvut.cz/">Czech Institute of Informatics, Robotics, and Cybernetics</a> (CIIRC)
+<br>
+Czech Technical University in Prague
 
 E-mail: Jiri dot Sedlar at cvut dot cz
-
+<br>
 Web: <a href="http://jirisedlar.github.io">jirisedlar.github.io</a>
+<br>
+Office: <a href="https://goo.gl/maps/oP4URGXcyJW78HpX6">CIIRC</a> B-636 (<a href="http://impact.ciirc.cvut.cz/wp-content/uploads/2017/10/get-to-image003.gif">building B</a>, 6th floor)
 
 - 2017-present <a href="https://www.ciirc.cvut.cz/">Czech Technical University</a>, Prague, Czech Republic
 - 2014-2017 <a href="https://www.mayo.edu/">Mayo Clinic</a>, Rochester MN, USA
@@ -22,6 +22,8 @@ Web: <a href="http://jirisedlar.github.io">jirisedlar.github.io</a>
 <img src="https://www.di.ens.fr/willow/research/motionforcesfromvideo/research/li19mfv/featured.gif">
 
 Selected publications:
+- <i>Z Li, J Sedlar, J Carpentier, I Laptev, N Mansard, J Sivic</i><br><b>Estimating 3D Motion and Forces of Human-Object Interactions from Internet Videos</b><br>International Journal of Computer Vision (IJCV) (2021) - <a href="https://arxiv.org/pdf/2111.01591.pdf">PDF</a> - <a href="https://www.di.ens.fr/willow/research/motionforcesfromvideo/">Project page</a>
+- <i>J Macke, J Sedlar, M Olsak, J Urban, J Sivic</i><br><b>Learning to solve geometric construction problems from images</b><br>Conference on Intelligent Computer Mathematics (CICM) (2021) - <a href="https://arxiv.org/pdf/2106.14195.pdf">PDF</a> - <a href="https://data.ciirc.cvut.cz/public/projects/2021GeometryReasoning/">Project page</a>
 - <i>Z Li, J Sedlar, J Carpentier, I Laptev, N Mansard, J Sivic</i><br><b>Estimating 3D Motion and Forces of Person-Object Interactions From Monocular Video</b><br>IEEE Conference on Computer Vision and Pattern Recognition (CVPR) (2019) - <a style="color: Red;" href="https://www.ciirc.cvut.cz/vysledek-ciirc-cvut-se-dostal-do-uzsiho-vyberu-nejlepsich-clanku-prestizni-konference-cvpr-v-pocitacovem-videni/">Best paper finalist</a> - <a href="https://arxiv.org/pdf/1904.02683.pdf">PDF</a> - <a href="https://www.di.ens.fr/willow/research/motionforcesfromvideo/">Project page</a>
 - <i>H Taira, I Rocco, J Sedlar, M Okutomi, J Sivic, T Pajdla, T Sattler, A Torii</i><br><b>Is This the Right Place? Geometric-Semantic Pose Verification for Indoor Visual Localization</b><br>IEEE International Conference on Computer Vision (ICCV) (2019) - <a href="http://arxiv.org/abs/1908.04598">PDF</a> - <a href="http://www.ok.sc.e.titech.ac.jp/res/RIGHTP/">Project page</a>
 - <i>Z Akkus, I Ali, J Sedlar, J P Agrawal, I F Parney, C Giannini, B J Erickson</i><br><b>Predicting Deletion of Chromosomal Arms 1p/19q in Low-Grade Gliomas from MR Images Using Machine Intelligence</b><br>Journal of Digital Imaging (2017) - <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5537096/pdf/10278_2017_Article_9984.pdf">PDF</a>

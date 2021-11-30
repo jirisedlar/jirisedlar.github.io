@@ -1,6 +1,6 @@
 # Jiri Sedlar (PhD)
 
-<img src="photo.jpg">
+<img src="photo-barcelona-2019.jpg">
 
 <a href="http://impact.ciirc.cvut.cz">Intelligent Machine Perception Project</a> (IMPACT)
 <br>

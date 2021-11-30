@@ -8,16 +8,16 @@
 <br>
 Czech Technical University in Prague
 
+<!--Web: <a href="http://jirisedlar.github.io">jirisedlar.github.io</a>
+<br>-->
 E-mail: Jiri dot Sedlar at cvut dot cz
-<br>
-Web: <a href="http://jirisedlar.github.io">jirisedlar.github.io</a>
 <br>
 Office: <a href="https://goo.gl/maps/oP4URGXcyJW78HpX6">CIIRC</a> B-636 (<a href="http://impact.ciirc.cvut.cz/wp-content/uploads/2017/10/get-to-image003.gif">building B</a>, 6th floor)
 
-- 2017-present <a href="https://www.ciirc.cvut.cz/">Czech Technical University</a>, Prague, Czech Republic
-- 2014-2017 <a href="https://www.mayo.edu/">Mayo Clinic</a>, Rochester MN, USA
-- 2013-2014 <a href="https://www.flinders.edu.au/">Flinders University</a>, Adelaide SA, Australia
-- PhD 2013 <a href="https://www.mff.cuni.cz/en">Charles University</a> / <a href="https://www.utia.cas.cz/">Czech Academy of Sciences</a>, Prague, Czech Republic
+- 2017-present <a href="https://www.ciirc.cvut.cz/">Czech Technical University</a>, Prague, Czech Republic (Computer Vision and Machine Learning)
+- 2014-2017 <a href="https://www.mayo.edu/">Mayo Clinic</a>, Rochester MN, USA (Medical Image Processing)
+- 2013-2014 <a href="https://www.flinders.edu.au/">Flinders University</a>, Adelaide SA, Australia (Medical Image Analysis)
+- PhD 2013 <a href="https://www.mff.cuni.cz/en">Charles University</a> / <a href="https://www.utia.cas.cz/">Czech Academy of Sciences</a>, Prague, Czech Republic (Computer Science)
 
 <img src="https://www.di.ens.fr/willow/research/motionforcesfromvideo/research/li19mfv/featured.gif">
 

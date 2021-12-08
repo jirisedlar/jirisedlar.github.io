@@ -1,18 +1,21 @@
-# Jiri Sedlar (PhD)
+# Jiri Sedlar
 
 <img src="photo-barcelona-2019.jpg">
 
-<a href="http://impact.ciirc.cvut.cz">Intelligent Machine Perception Project</a> (IMPACT)
-<br>
-<a href="https://www.ciirc.cvut.cz/">Czech Institute of Informatics, Robotics, and Cybernetics</a> (CIIRC)
-<br>
-Czech Technical University in Prague
+<b>Thesis topics:</b>
+<ul><li><a href="https://docs.google.com/document/d/1FO3kUAXlwcUQ2A1tldTQ4LO_Hu1KhOYqgQf7N6t9DO8/edit#heading=h.flrub2wha9cx">Analysis of Molecular Dynamic Simulations for Alzheimer’s Disease Research using VAMPnet Neural Networks</a></li>
+<li><a href="https://docs.google.com/document/d/1FO3kUAXlwcUQ2A1tldTQ4LO_Hu1KhOYqgQf7N6t9DO8/edit#heading=h.vdj98nafglm3">Self-supervised learning for solving geometric construction problems from images</a></li>
+<li><a href="https://ellis.ciirc.cvut.cz/4-students/">All thesis and internship topics at ELLIS Prague</a></li></ul>
 
-<!--Web: <a href="http://jirisedlar.github.io">jirisedlar.github.io</a>
-<br>-->
 E-mail: Jiri dot Sedlar at cvut dot cz
 <br>
 Office: <a href="https://goo.gl/maps/oP4URGXcyJW78HpX6">CIIRC</a> B-636 (<a href="http://impact.ciirc.cvut.cz/wp-content/uploads/2017/10/get-to-image003.gif">building B</a>, 6th floor)
+
+Intelligent Machine Perception Project (<a href="http://impact.ciirc.cvut.cz">IMPACT</a>)
+<br>
+Czech Institute of Informatics, Robotics, and Cybernetics (<a href="https://www.ciirc.cvut.cz/">CIIRC</a>)
+<br>
+Czech Technical University in Prague
 
 - 2017-present <a href="https://www.ciirc.cvut.cz/">Czech Technical University</a>, Prague, Czech Republic (Computer Vision and Machine Learning)
 - 2014-2017 <a href="https://www.mayo.edu/">Mayo Clinic</a>, Rochester MN, USA (Medical Image Processing)
